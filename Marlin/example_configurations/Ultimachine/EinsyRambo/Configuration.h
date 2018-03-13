@@ -369,7 +369,7 @@
   //#define  DEFAULT_Ki 2.25
   //#define  DEFAULT_Kd 440
 
-  // FIND YOUR OWN: "M303 E0 S200 C8" to run autotune on the bed at 90 degreesC for 8 cycles.
+  // FIND YOUR OWN: "M303 E0 S200 C8" to run autotune on the hotend at 200 degreesC for 8 cycles.
   //#define  DEFAULT_Kp 
   //#define  DEFAULT_Ki 
   //#define  DEFAULT_Kd 

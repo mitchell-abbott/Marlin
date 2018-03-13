@@ -157,7 +157,7 @@
 
   #define KILL_PIN         32
 
-  #if ENABLED(NEWPANEL || REPRAP_DISCOUNT_SMART_CONTROLLER)
+  #if ENABLED(NEWPANEL)
 
     // Beeper on AUX-4
     #define BEEPER_PIN     84

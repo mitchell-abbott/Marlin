@@ -156,6 +156,8 @@
   #include "pins_MEGATRONICS_3.h"     // ATmega2560
 #elif MB(RAMBO)
   #include "pins_RAMBO.h"             // ATmega2560
+#elif MB(BOARD_EINSYRAMBO)
+  #include "pins_EINSYRAMBO.h"        // ATmega2560
 #elif MB(MINIRAMBO) || MB(MINIRAMBO_10A)
   #include "pins_MINIRAMBO.h"         // ATmega2560
 #elif MB(ELEFU_3)

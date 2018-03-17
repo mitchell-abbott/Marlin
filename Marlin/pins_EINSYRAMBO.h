@@ -46,9 +46,9 @@
 
 #if ENABLED(SENSORLESS_HOMING)
   #define X_MIN_PIN          64
-  #define X_MAX_PIN          64
+  #define X_MAX_PIN          -1
   #define Y_MIN_PIN          69
-  #define Y_MAX_PIN          69
+  #define Y_MAX_PIN          -1
   #define Z_MAX_PIN          -1
 
   #if ENABLED(BLTOUCH)

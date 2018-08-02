@@ -140,6 +140,9 @@ vc-fileutils.settings
 .vscode/launch.json
 .vscode/*.db
 
+#Build Folder
+Build
+
 #cmake
 CMakeLists.txt
 Marlin/CMakeLists.txt
@@ -147,3 +150,5 @@ CMakeListsPrivate.txt
 
 #CLion
 cmake-build-*
+
+
